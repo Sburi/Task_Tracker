@@ -1,7 +1,7 @@
 # Task-Tracker
 
 Overview
-This tracker is designed to simplify, streamline, and standardize your daily life.
+- This tracker is designed to simplify, streamline, and standardize your daily life.
 
 How To
 1) Add your clients to the "EDIT clients" worksheet
