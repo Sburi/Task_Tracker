@@ -16,3 +16,6 @@ Key Features
 - Rapid, distributable by-project and client project status
 - Instantly available, monthly view of by client, by project effort allocation
 - The ability to finally answer the question, "What have I been doing with my life"
+
+Screenshots:
+![Project Overview](https://preview.redd.it/o3smygz56v541.png?width=1792&format=png&auto=webp&s=453922b321f215fe458fda025d5026a846fcc29a)
